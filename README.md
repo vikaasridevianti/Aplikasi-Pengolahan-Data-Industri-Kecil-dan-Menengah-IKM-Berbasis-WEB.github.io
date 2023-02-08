@@ -1,8 +1,6 @@
 CRUD berbasis Web sederhana untuk memudahkan proses pengolahan Data IKM (Disperindag)
 ![Demo Program Aplikasi Pengolahan Data IKM Berbasis WEB_Moment](https://user-images.githubusercontent.com/61422479/217453413-1d7c2205-396b-4789-b6f9-91ba4c867921.jpg)
 
-![Demo Program Aplikasi Pengolahan Data IKM Berbasis WEB](https://user-images.githubusercontent.com/61422479/217453432-b9616239-c18a-4586-834f-67a18805cfa4.jpg)
-
 - Extract terlebih dulu File rar "document CI"
 - noted: simpan semua file pada directori xampp/htdocs 
 - didalam file htdocs tersebut buat file baru dengan nama file "projectikm2020"
