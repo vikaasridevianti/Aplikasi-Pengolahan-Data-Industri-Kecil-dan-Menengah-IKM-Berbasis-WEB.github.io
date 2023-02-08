@@ -1,0 +1,10 @@
+Aplikasi Pengolahan Data Industri Kecil dan Menengah (IKM) Berbasis WEB
+
+1. Aplikasi ini di bangun menggunakan Framework Codeignniter
+2. Untuk menjalan kan aplikasi pertama kali anda buka chrome terlebih dahulu
+3. Impor database menggunakan MySql dengan nama database "disperindag"
+4. Pada tab baru ketikan link http://localhost/projectikm2020/auth (akan terhubung ke halaman login)
+5. jika anda tidak mempunyai akun administrator, anda dapat melakukan registrasi terlebih dahulu.
+6. Akun Login (Superadmin)
+   username : vika.devianti07@gmail.com
+   password : 123456789
